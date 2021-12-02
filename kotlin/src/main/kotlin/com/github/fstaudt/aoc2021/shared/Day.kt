@@ -1,4 +1,4 @@
-package com.github.jntakpe.aoc2021.shared
+package com.github.fstaudt.aoc2021.shared
 
 interface Day {
 
